@@ -18,7 +18,7 @@ The Windows 10 provide the convenient function that can make the nested folder t
 ### Environment
 
 - Windows 11
-- .NET 6.0
+- .NET 6.0 ( [Download](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-6.0.0-rc.2-windows-x64-installer) )
 
 ## Instruction 
 
