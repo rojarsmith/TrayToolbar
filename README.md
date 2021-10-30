@@ -5,7 +5,7 @@ TrayToolbar
 
 ## Intro
 
-The Windows 10 provide the convenient function that can make the nested folder to be a custom menu. But it was removed in Windows 11. It caused me a lot of inconvenience. When my unhappy reached a critical point, I didn't want to reinstall the Windows 10, so, I wrote this program provided the similar function by system tray.
+The Windows 10 provide the convenient function that can make the nested folder to be a custom menu. But it was removed in Windows 11. TrayToolbar is the program provided the similar function by system tray.
 
 ![windows-10-toobars.png](img/windows-10-toobars.png)
 
