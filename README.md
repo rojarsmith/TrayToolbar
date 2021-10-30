@@ -68,3 +68,13 @@ Enjoy 😁
 
 If this program help you and willing to sponsor me to continue to improve this software, please support me with effective action.
 
+Crowdfunding Features :
+
+1. Type filter
+2. DPI scale
+3. Multi root path
+4. Look feel
+5. Config sync to cloud
+6. Utility that do not slow down the opening menu speed
+7. The version without .net core
+8. Open source
