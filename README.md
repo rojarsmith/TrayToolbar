@@ -36,6 +36,7 @@ You can config the parameters of app:
 
 - Path - the folder which you want to be a menu.
 - Depth - the maxima scan depth of nested folder. It is recommended not to exceed 5.
+- Icon - switch display the icon beside of item.
 
 ![options.png](img/options.png)
 
