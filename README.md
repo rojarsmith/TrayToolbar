@@ -18,7 +18,7 @@ The Windows 10 provide the convenient function that can make the nested folder t
 ### Environment
 
 - Windows 11
-- .NET Desktop Runtime 6.0.0-rc.2 ( [Download](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-6.0.0-rc.2-windows-x64-installer) )
+- .NET Desktop Runtime 6.0.0 ( [Download](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-6.0.0-windows-x64-installer) )
 
 ## Instruction 
 
@@ -26,11 +26,18 @@ Download released package and then uncompress it. Running "TrayToolbar.exe" to o
 
 Pay attention to the tray icon at taskbar that the new icon showed.
 
-Right-click mouse and click "Options"
+Right-click mouse :
+
+- Refresh - Refresh left-click menu.
+- Options - Config app.
+- About - Information about app.
+- Exit - Exit app.
 
 ![mouse-right-click-menu.png](img/mouse-right-click-menu.png)
 
 *TrayToolbar App & right-click menu*
+
+Click "Options".
 
 You can config the parameters of app:
 
@@ -52,6 +59,10 @@ You can click any item if it is:
 
 - Folder - Open the windows explorer by path.
 - Files - Open the file with associated app.
+
+Special :
+
+- House Logo - Open the windows explorer by home path.
 
 ![mouse-left-click-menu.png](img/mouse-left-click-menu.png)
 
