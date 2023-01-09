@@ -76,7 +76,7 @@ Enjoy 😁
 
 [BTC]  bc1qd3889yxkk2tqjvxnxwa8qumr068htctat4ef3c
 
-[ETH]  0x19A06db7766758C848787EA56e7C357CaF055B61
+[ETH]  0xAF5e6b4a618238A9Bf202a78087f6F06351117e1
 
 If this program help you and willing to sponsor me to continue to improve this software, please support me with effective action.
 
