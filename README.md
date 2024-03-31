@@ -17,8 +17,8 @@ The Windows 10 provide the convenient function that can make the nested folder t
 
 ### Environment
 
-- Windows 11
-- .NET Desktop Runtime 6.0.0 ( [Download](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-6.0.0-windows-x64-installer) )
+- Windows 10/11
+- .NET Desktop Runtime 8.0.0+ ( [Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.3-windows-x64-installer) )
 
 ## Instruction 
 
@@ -43,6 +43,8 @@ You can config the parameters of app:
 
 - Path - the folder which you want to be a menu.
 - Depth - the maxima scan depth of nested folder. It is recommended not to exceed 5.
+- Exclude File - Filter based on the name at the end of the file. Filtered files will not appear in the menu. Multiple parameters can be separated by semicolons `;`.
+- Exclude Folder - Filter based on the name at the end of the folder. Filtered folders will not appear in the menu. Multiple parameters can be separated by semicolons `;`.
 - Icon - switch display the icon beside of item.
 
 ![options.png](img/options.png)
@@ -82,7 +84,7 @@ If this program help you and willing to sponsor me to continue to improve this s
 
 Crowdfunding Features :
 
-1. Type filter
+1. Complex folder and file filter
 2. DPI scale
 3. Multi root path
 4. Look feel
