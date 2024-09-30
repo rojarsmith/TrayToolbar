@@ -3,6 +3,8 @@ TrayToolbar
 
 :rocket: Provide the replacement of add new toolbar function that was cancelled in windows 11. 
 
+I have no money to get a girlfriend, so I have no choice...
+
 ## Intro
 
 The Windows 10 provide the convenient function that can make the nested folder to be a custom menu. But it was removed in Windows 11. TrayToolbar is the program provided the similar function by system tray.
