@@ -94,3 +94,9 @@ Crowdfunding Features :
 6. Utility that do not slow down the opening menu speed
 7. The version without .net core
 8. Open source
+
+## Sponsor
+
+Thank you very much for your support!
+
+2025/7/24 bc1q0-ljqy8 0.00016807 BTC
